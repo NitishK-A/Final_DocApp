@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "651069672474",
+    "firebase_url": "https://docapp-c0bb4.firebaseio.com",
+    "project_id": "docapp-c0bb4",
+    "storage_bucket": "docapp-c0bb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651069672474:android:818baacce21fe6d6",
+        "android_client_info": {
+          "package_name": "com.example.nitishatal.docapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651069672474-hb0cd7dscqaomddt5sc46vrj48r9jve8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nitishatal.docapp",
+            "certificate_hash": "d664892318f099d18fc118376dcfb966ef70e750"
+          }
+        },
+        {
+          "client_id": "651069672474-0l0r7lae2aa8oudi4f9a94m0u0b6i9ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwoCuML1hDl2aRLG0Pp1YXMqtggqcqE2g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651069672474-0l0r7lae2aa8oudi4f9a94m0u0b6i9ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
